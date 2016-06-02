@@ -1,7 +1,6 @@
 # Physical-Computing-Seminar
-Codes used in the physical computing seminar 
 
-Making spaces talk: A practical introduction to electronics and programming.
+##### Making spaces talk: A practical introduction to electronics and programming.
 
 Democratization of technology previously limited to the specialized industries is enabling a new approach towards how we
 understand digital technology in architecture and design. Thanks to open source communities such as Arduino and Processing 
